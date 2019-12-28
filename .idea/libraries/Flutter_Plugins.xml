@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file:///usr/local/flutter/.pub-cache/git/flutter_tencentplayer-78a4c6f3214c4231c9f0f2e55ff646742c0b62e5" />
+      <root url="file:///usr/local/flutter/.pub-cache/git/flutter_dlna-38c0a85ecf80e8387d0b58e4da9024d3abed5149" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
